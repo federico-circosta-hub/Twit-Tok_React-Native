@@ -29,7 +29,8 @@
     "react-native-select-dropdown": "^3.0.3",
     "react-navigation": "^2.18.3",
     "react-navigation-stack": "^1.5.3",
-    "react-navigation-tabs": "^1.2.0"
+    "react-navigation-tabs": "^1.2.0",
+    "expo-sqlite": "~10.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
